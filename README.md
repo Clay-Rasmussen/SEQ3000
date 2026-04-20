@@ -2,7 +2,7 @@
 
 ## Overview
 ___
-ADDME
+This project is a COBOL program designed to perform sequential file maintenance on employee records. It processes an existing employee master file alongside a transaction file containing HR actions (add, delete, change). The program generates an updated master file and an error file for invalid transactions while following a balanced-line algorithm for accurate record comparison and updates.
 
 ## Table of Contents
 ___
@@ -18,26 +18,20 @@ ___
 ___
 # RPT6000 Assignment – New Concepts
 
-ADD SHORT
+This assignment introduced working with sequential files, indexed files, and COBOL sort/merge features, along with implementing file validation and structured file processing logic.
 
+## Chapter 13 – How to Work with Sequential Files
 ---
-## Chapter 13 – ADD TITLE
+Sequential files are processed in order, one record at a time. In this project, a sequential employee master file and a transaction file were read simultaneously using a balanced-line algorithm to compare employee IDs and determine updates, additions, or deletions.
 
-ADDME
 
+## Chapter 14 – How to Work with Indexed Files
 ---
+Indexed files allow faster access to records using keys rather than strict sequential order. Although not fully implemented, this concept expands on how large datasets can be accessed efficiently compared to sequential processing.
 
-## Chapter 14 – ADD TITLE
-
-ADDME
-
+## Chapter 16 – How to Use the Sort/Merge Feature
 ---
-
-## Chapter 16 – ADD TITLE
-
-ADDME
-
----
+COBOL’s sort/merge functionality helps organize and combine large datasets. This concept supports file processing tasks like ensuring transaction files are properly ordered before applying updates to a master file.
 
 ## Tech Stack
 ___
@@ -56,7 +50,12 @@ ___
 
 ## Learning Outcomes
 ___
-ADDME
+* Learned how to process and maintain sequential files using COBOL
+* Implemented the balanced-line algorithm for comparing master and transaction records
+* Gained experience handling file I/O operations with multiple input and output files
+* Applied data validation and error handling, including file status checking
+* Developed logic to handle real-world HR transactions such as hiring, termination, and updates
+* Improved understanding of structured COBOL program design
 
 ## Help
 ___
