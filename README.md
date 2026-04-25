@@ -42,7 +42,11 @@ ___
 
 ## Running Output
 ___
-![Code Running](assets/SEQ3000RunningOutput.png)
+**Employee File**
+![NEWEMP](assets/NEWEMPRunningOutput.png)
+
+**Error Catching File**
+![ERRTRAN](assets/ERRTRAN3RunningOutput.png)
 
 ## Learning Outcomes
 ___
