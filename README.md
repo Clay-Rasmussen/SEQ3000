@@ -29,10 +29,6 @@ Sequential files are processed in order, one record at a time. In this project, 
 ---
 Indexed files allow faster access to records using keys rather than strict sequential order. Although not fully implemented, this concept expands on how large datasets can be accessed efficiently compared to sequential processing.
 
-## Chapter 16 – How to Use the Sort/Merge Feature
----
-COBOL’s sort/merge functionality helps organize and combine large datasets. This concept supports file processing tasks like ensuring transaction files are properly ordered before applying updates to a master file.
-
 ## Tech Stack
 ___
 * ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
