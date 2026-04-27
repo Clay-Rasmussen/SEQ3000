@@ -12,7 +12,7 @@ ___
 * [Running Output](#running-output)
 * [Learning Outcomes](#learning-outcomes)
 * [Help](#help)
-* [Authors](#authors)
+* [Authors](#author)
 
 
 ### New Concepts
@@ -66,7 +66,7 @@ ___
 * Potentially re-clone repository
 * restart IDE
 
-## Authors
+## Author
 ___
 <img src="https://github.com/Clay-Rasmussen.png" alt="Profile Picture" width="100" />
 
