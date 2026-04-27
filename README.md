@@ -17,18 +17,18 @@ ___
 
 ### New Concepts
 ___
-# RPT6000 Assignment – New Concepts
+## RPT6000 Assignment – New Concepts
 
 This assignment introduced working with sequential files, indexed files, and COBOL sort/merge features, along with implementing file validation and structured file processing logic.
 
 ## Chapter 13 – How to Work with Sequential Files
----
-Sequential files are processed in order, one record at a time. In this project, a sequential employee master file and a transaction file were read simultaneously using a balanced-line algorithm to compare employee IDs and determine updates, additions, or deletions.
-
+Sequential files are processed in order, one record at a time. In this project, a sequential employee master file and a transaction file were read simultaneously using a balanced-line algorithm to compare
+employee IDs and determine updates, additions, or deletions.
 
 ## Chapter 14 – How to Work with Indexed Files
----
-Indexed files allow faster access to records using keys rather than strict sequential order. Although not fully implemented, this concept expands on how large datasets can be accessed efficiently compared to sequential processing.
+
+Indexed files allow faster access to records using keys rather than strict sequential order. Although not fully implemented, this concept expands on how large datasets can be accessed efficiently compared
+to sequential processing.
 
 ## Tech Stack
 ___
@@ -44,9 +44,11 @@ ___
 ## Running Output
 ___
 **Employee File**
+
 ![NEWEMP](assets/NEWEMPRunningOutput.png)
 
 **Error Catching File**
+
 ![ERRTRAN](assets/ERRTRAN3RunningOutput.png)
 
 ## Learning Outcomes
