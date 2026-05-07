@@ -17,7 +17,7 @@ ___
 
 ### New Concepts
 ___
-## RPT6000 Assignment – New Concepts
+## SEQ3000 Assignment – New Concepts
 
 This assignment introduced working with sequential files, indexed files, and COBOL sort/merge features, along with implementing file validation and structured file processing logic.
 
